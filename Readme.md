@@ -1,4 +1,4 @@
----
+
 
 Debug Method Plugin for BepInEx IL2CPP
 
@@ -81,7 +81,4 @@ License
 This project is licensed under the MIT License.
 
 
----
-
-This README provides all essential information for users to understand the plugin's purpose, installation, usage, and example output. Let me know if you'd like to add or change any sections!
 
